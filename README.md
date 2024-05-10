@@ -1,4 +1,4 @@
-<h1> Healthcare Data Analytics Project (PostgreSQL)  </h1>
+<h1> Healthcare Data Project (PostgreSQL)  </h1>
 
 
 <h2>Description</h2>
